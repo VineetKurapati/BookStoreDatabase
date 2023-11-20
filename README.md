@@ -39,5 +39,5 @@ Examining  which promotions/offers were used the most by loyalty cardholders. Th
 
 # Entity-Relation Model 
 
-![Alt text](https://drive.google.com/file/d/1fZjvVF8HURwXZkZWN7Vd3_sWYz6peT2w/view?usp=share_link)
+![Alt text](https://github.com/VineetKurapati/BookStoreDatabase/blob/main/EER_Diagram.heic)
 
