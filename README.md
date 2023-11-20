@@ -41,3 +41,5 @@ Examining  which promotions/offers were used the most by loyalty cardholders. Th
 
 ![Alt text](https://github.com/VineetKurapati/BookStoreDatabase/blob/main/EER_Diagram.heic)
 
+# Relational Model 
+![Alt text](https://github.com/VineetKurapati/Bookstore-Franchise-Management-/blob/main/Relational%20Final.jpg)
