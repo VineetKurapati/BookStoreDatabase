@@ -35,3 +35,9 @@ The system tracks membership program data, including renewals and new subscripti
 
 7. Effective offer design
 Examining  which promotions/offers were used the most by loyalty cardholders. This can help in designing future loyalty card offers.
+
+
+# Entity-Relation Model 
+
+![Alt text](https://drive.google.com/file/d/1fZjvVF8HURwXZkZWN7Vd3_sWYz6peT2w/view?usp=share_link)
+
